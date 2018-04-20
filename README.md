@@ -1,2 +1,2 @@
 # lepestrum
-Hard Realtime OS based on hybrid kernel
+Hard Realtime framework based on hybrid kernel
